@@ -1,0 +1,2 @@
+pub static CREATE_USER_CONTEXT_TABLE_QUERY: &str =
+    "CREATE TABLE user_context (id INTEGER PRIMARY KEY AUTOINCREMENT, user_id TEXT, chat TEXT)";

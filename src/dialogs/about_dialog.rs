@@ -1,0 +1,1 @@
+pub static ABOUT_DIALOG: &str = "Welcome to Linea Ai, a bot with which you can use artificial intelligence in a simple way 🤖, remember that every artificial intelligence model you put must be in replicate.";
